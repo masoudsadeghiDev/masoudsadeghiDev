@@ -1,27 +1,23 @@
 # Hi there, I'm Masoud 👋
 
-I'm a passionate **Backend Developer** with a focus on building scalable and efficient systems using **Java**. My expertise lies in working with:
+**Senior Backend Engineer** with 5+ years building scalable, high-throughput systems in **Java** and **Spring Boot**. I work across the full software lifecycle — turning requirements into design, implementing, deploying, and supporting production systems. Most of my work has centered on real-time, high-throughput platforms where reliability under load actually matters.
 
-- **SQL** (PostgreSQL, MySQL)
-- **NoSQL** (MongoDB, Redis)
-- **Message Brokers** (RabbitMQ, Kafka)
-- **Spring Boot** for microservices architecture
-
-I'm constantly learning and expanding my skill set, and currently, I'm diving into **Go (Golang)** to explore its performance advantages in backend development.
+Currently expanding into **AI engineering** — building foundations in Python, machine learning, and the math behind it (linear algebra, statistics, probability), with the goal of deploying production-grade AI services.
 
 ## 🔧 Technologies & Tools
-- **Languages**: Java, Go (learning), SQL, NoSQL
-- **Frameworks**: Spring Boot, Hibernate
-- **Databases**: PostgreSQL, MongoDB, Redis
-- **Message Brokers**: RabbitMQ, Kafka
-- **Containerization**: Docker, Kubernetes
-- **Version Control**: Git, GitHub
+
+- **Languages**: Java, JavaScript/TypeScript, Go (learning), Python (learning)
+- **Frameworks**: Spring Boot, Hibernate, Angular
+- **Databases**: SQL Server, MongoDB, Redis
+- **Messaging & Caching**: RabbitMQ, Redis
+- **Tools**: Git, Maven, Linux
 
 ## 💡 Currently Exploring
-- Mastering **Golang** and its ecosystem.
-- Deepening knowledge in **cloud architecture** and **container orchestration** with **Kubernetes**.
+
+- **AI / Machine Learning** — Python, ML foundations, and production ML services
+- **Golang** and its ecosystem
 
 ## 🌐 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/masoud-sadeghi-dev/)
 
-Feel free to explore my repositories and follow my journey as I continue to grow and share my learnings!
+- [LinkedIn](https://www.linkedin.com/in/masoud-sadeghi-dev)
+- 🌍 [masoudsadeghidev.github.io](https://masoudsadeghidev.github.io)
